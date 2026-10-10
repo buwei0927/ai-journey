@@ -1,2 +1,2 @@
-name = input("What's your name? ")
-print(f"Hello, {name}!")
+name = input("你叫什么名字? ")
+print("你好," + name + "!")
